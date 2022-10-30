@@ -30,7 +30,7 @@ yarn add product_add_and_remove_to_warehouse_by_eric
 node app
 ```
 
-![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/create_products.json_file.png)
+![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/create_products.json_file.png?raw=true)
 
 #### Add product to the warehouse
 
@@ -38,7 +38,7 @@ node app
 node app --dep Apple 4
 ```
 
-![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/add_product_to_warehouse.png)
+![Image](https://github.com/Yadzim/warehouse_in_nodejs/blob/main/images/add_product_to_warehouse.png?raw=true)
 
 #### View the new product
 
@@ -46,7 +46,7 @@ node app --dep Apple 4
 node app
 ```
 
-![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/view_warehouse.png)
+![Image](https://github.com/Yadzim/warehouse_in_nodejs/blob/main/images/view_warehouse.png?raw=true)
 
 #### Sell the product from the warehouse
 
@@ -54,7 +54,7 @@ node app
 node app -sell apple 1
 ```
 
-![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/sell_product_from_warehouse.png)
+![Image](https://github.com/Yadzim/warehouse_in_nodejs/blob/main/images/sell_product_from_warehouse.png?raw=true)
 
 #### View the end result
 
@@ -62,6 +62,6 @@ node app -sell apple 1
 node app
 ```
 
-![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/full_view_warehouse.png)
+![Image](https://github.com/Yadzim/warehouse_in_nodejs/blob/main/images/full_view_warehouse.png?raw=true)
 
 ## Errors
