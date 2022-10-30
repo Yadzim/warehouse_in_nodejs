@@ -30,7 +30,7 @@ yarn add product_add_and_remove_to_warehouse_by_eric
 node app
 ```
 
-![Image](https://github.com/Yadzim/warehouse_in_nodejs/tree/main/images/create_products.json_file.png?raw=true)
+![Image](https://github.com/Yadzim/warehouse_in_nodejs/blob/main/images/create_products.json_file.png?raw=true)
 
 #### Add product to the warehouse
 
